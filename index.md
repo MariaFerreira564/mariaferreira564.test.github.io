@@ -1,11 +1,13 @@
-# Welcome to My Site
+<!-- index.md -->
+
 Hello! I'm Maria Ferreira, and this is my first GitHub Pages website. 🎉  
 
 ## About Me
-I’m learning how to host websites directly from GitHub.  
+I’m learning how to host websites directly from GitHub using Jekyll.  
 
 ## Projects
 - Project 1: Example project  
 - Project 2: Another example  
 
-Thanks for visiting!
+## Contact
+You can reach me at [email@example.com]
