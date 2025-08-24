@@ -1,11 +1,16 @@
-Hello! I'm Maria Ferreira, and this is my first GitHub Pages website. 🎉  
+---
+title: ""
+---
 
-### About Me
-I’m learning how to host websites directly from GitHub using Jekyll.  
+## Welcome!
+Hello! I'm Maria Ferreira, and this is my first GitHub Pages website. 🎉
 
-### Projects
-- Project 1: Example project  
-- Project 2: Another example  
+## About Me
+I’m learning how to host websites directly from GitHub using Jekyll. I enjoy coding, creating small projects, and exploring new web technologies.
 
-### Contact
-You can reach me at [email@example.com]
+## Projects
+- **Project 1:** Example project  
+- **Project 2:** Another example  
+
+## Contact
+You can reach me at [email@example.com](mailto:email@example.com)
