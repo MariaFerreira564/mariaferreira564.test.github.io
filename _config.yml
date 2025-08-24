@@ -1,3 +1,15 @@
 title: My Portfolio
 description: Technical Writing 
 theme: minima
+
+
+sass:
+  style: compressed
+
+# Include custom CSS
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/style.css"
