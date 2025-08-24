@@ -1,7 +1,8 @@
-Hello! I'm Maria Ferreira, and this is my first GitHub Pages website. 🎉
+Hello! I'm Manuela Ferreira, and this is my technical writing portfolio. 
 
 ## About Me
-I’m learning how to host websites directly from GitHub using Jekyll. I enjoy coding, creating small projects, and exploring new web technologies.
+I've been working as a technical writer for the last 3 years. I'm passionate about turning complex subjects into clear, user-focused documentation. 
+My path has been a mix of technology and writing.......
 
 ## Projects
 - **Project 1:** Example project  
