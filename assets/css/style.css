@@ -1,0 +1,4 @@
+/* Hide automatic page title for all pages */
+.page-title {
+  display: none;
+}
