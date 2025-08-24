@@ -1,8 +1,7 @@
 ---
-title: ""
+title: "Welcome!"
 ---
 
-## Welcome!
 Hello! I'm Maria Ferreira, and this is my first GitHub Pages website. 🎉
 
 ## About Me
