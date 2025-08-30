@@ -5,8 +5,8 @@ I've been working as a technical writer for the last 3 years. I'm passionate abo
 My path has been a mix of technology and writing.......
 
 ## Projects
-- **Project 1:** Example project  
-- **Project 2:** Another example  
+- **Project 1:** Hardware project  
+- **Project 2:** Software project 
 
 ## Contact
 You can reach me at [email@example.com](mailto:email@example.com)
